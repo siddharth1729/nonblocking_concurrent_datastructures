@@ -1,4 +1,4 @@
-# Non-Blocking Data Structures in Rust
+# Non-Blocking Concurrent Data Structures in Rust
 
 [![License](https://img.shields.io/github/license/siddharth1729/nonblocking_datastructures)](LICENSE)
 
